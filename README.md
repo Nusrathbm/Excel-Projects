@@ -32,7 +32,6 @@ The projects demonstrate practical usage of Excel features to transform raw data
 
 1. Brightness Termination Data Analysis
 - Employee termination data analysis using Excel.
-- Used pivot tables, charts, and data visualization
 
 # Project Workflow
 
